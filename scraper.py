@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+
 def scrape_flights():
     url = "https://www.exampleairlines.com/flights"  # Replace this with the actual URL
 
